@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SimplifiedNorthwind
+build_property.RootNamespace = SimplifiedNorthwind
+build_property.ProjectDir = C:\SimplifiedNorthwind\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\SimplifiedNorthwind
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/SimplifiedNorthwind/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/AddCustomer.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQ3VzdG9tZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/AddOrder.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkT3JkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/AddOrderItem.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkT3JkZXJJdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/AddProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/AddSolutionUser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkU29sdXRpb25Vc2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/AddSupplier.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkU3VwcGxpZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/Customers.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/EditCustomer.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEN1c3RvbWVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/EditOrder.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdE9yZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/EditOrderItem.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdE9yZGVySXRlbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/EditProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFByb2R1Y3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/EditSolutionUser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFNvbHV0aW9uVXNlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/EditSupplier.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFN1cHBsaWVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/OrderItems.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJJdGVtcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/Orders.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/SolutionUsers.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29sdXRpb25Vc2Vycy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/Suppliers.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwcGxpZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/Unauthorized.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVW5hdXRob3JpemVkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SimplifiedNorthwind/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

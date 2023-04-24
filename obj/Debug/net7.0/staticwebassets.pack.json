@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\SimplifiedNorthwind\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\SimplifiedNorthwind\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\SimplifiedNorthwind\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\SimplifiedNorthwind\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\SimplifiedNorthwind\\wwwroot\\images\\login.jpg",
+      "PackagePath": "staticwebassets\\images\\login.jpg"
+    },
+    {
+      "Id": "C:\\SimplifiedNorthwind\\wwwroot\\images\\logo-login.png",
+      "PackagePath": "staticwebassets\\images\\logo-login.png"
+    },
+    {
+      "Id": "C:\\SimplifiedNorthwind\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SimplifiedNorthwind.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SimplifiedNorthwind.props",
+      "PackagePath": "build\\SimplifiedNorthwind.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplifiedNorthwind.props",
+      "PackagePath": "buildMultiTargeting\\SimplifiedNorthwind.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SimplifiedNorthwind.props",
+      "PackagePath": "buildTransitive\\SimplifiedNorthwind.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
